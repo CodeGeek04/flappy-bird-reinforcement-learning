@@ -1,6 +1,5 @@
 # AFlappy Bird :bird: Reinforcement Learning:robot:
-This is a classic Flappy Bird game built using PyGame, where an AI agent learns to play the game through Reinforcement Learning powered by QLearning in PyTorch. Experience the excitement of traditional Flappy Bird, customize hyperparameters like learning rates and rewards, and track AI progress with training analytics. Easy to set up, this repository offers a glimpse of AI-driven rounds. 
-I have built another repo as well where an agent plays Atari Breakout game..Do check that out too :grin::grin:
+This is a classic Flappy Bird game built using PyGame, where an AI agent learns to play the game through Reinforcement Learning powered by QLearning in PyTorch. Experience the excitement of traditional Flappy Bird, customize hyperparameters like learning rates and rewards, and track AI progress with training analytics. Easy to set up, this repository offers a glimpse of AI-driven rounds. Stay tuned for more such projects:grin::grin:
 
 ## Table of Contents
 
